@@ -13,7 +13,11 @@ import javax.swing.JFrame;
  */
 public class RealCalculator {
 
-    
+    double firstnum;
+    double secondnum;
+    double result;
+    String operations;
+    String answer;
     
     
 
